@@ -1,0 +1,6 @@
+{
+  "name": "Talento9 — Matriz 9-Box y Tablero de Talento",
+  "description": "Modelo 9-Box interactivo, personalizable y tablero de control dinámico para la gestión estratégica de talento y recursos humanos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
